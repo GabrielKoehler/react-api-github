@@ -1,6 +1,5 @@
 
-# react-api-github
-## Aplicação que utiliza API do Github para informar dados sobre repositórios de usuários específicos.
+# react-api-github - Aplicação que utiliza API do Github para informar dados sobre repositórios de usuários específicos.
 
 ## Execute os seguintes comandos...
 
