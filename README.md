@@ -6,11 +6,11 @@
 
 ### Clona repositório:
 ```
-0- git clone https://github.com/GabrielKoehler/react-api-github.git
+git clone https://github.com/GabrielKoehler/react-api-github.git
 ```
 ## Instalar dependências:
 ```
-1 - npm install
+npm install
 ```
 
 ## Após clonado e configurado...
@@ -21,5 +21,5 @@ Entrar no diretório do projeto
 
 ### Inicia aplicação React:
 ```
-0 - npm start
+npm start
 ```
